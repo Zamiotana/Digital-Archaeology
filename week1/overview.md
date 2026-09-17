@@ -6,8 +6,6 @@ for my personal story, the first thing is what to focus on
 - IT career? too boring
 - pets I've had? horses, cats, dogs, rabbits, ducks, geese; have photos and videos
 
-none of the above are particularly interesting
-
 more interesting is that my wife and I keep special mementos in our cabinet of curiosities
 
 each memento is physical but it could be shared as a photo and a story
