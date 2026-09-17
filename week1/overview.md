@@ -1,4 +1,6 @@
-with respect to the required reading for week1 which I am now reading in week2, the main idea seems to be to avoid simply converting paper materials to digital, which makes sense
+with respect to the required reading for week1 which I am now reading in week2, the main idea seems to be to avoid simply converting paper materials to digital, which makes sense 
+
+I've been exploring the Titanic in VR and this seems a lot better than paper
 
 for my personal story, the first thing is what to focus on
 - hang gliding? all my flights are logged so the data is there
