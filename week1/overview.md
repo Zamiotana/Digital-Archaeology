@@ -1,3 +1,5 @@
+with respect to the required reading for week1 which I am now reading in week2, the main idea seems to be to avoid simply converting paper materials to digital, which makes sense
+
 for my personal story, the first thing is what to focus on
 - hang gliding? all my flights are logged so the data is there
 - acting? I have scripts, photos and artifacts from all the shows I was in
@@ -15,7 +17,7 @@ sample mementos:
 - my mother's ashes 
 - memorabilia (eg mugs) from shows I've been in
 
-as far as the paper "D’Ignazio, Catherine and Klein, L. 2020. ‘What gets counted, counts’. From Data Feminism" it comes across as more of a fluff piece than an academic work
+as far as the paper "D’Ignazio, Catherine and Klein, L. 2020. ‘What gets counted, counts’. From Data Feminism" it comes across as more of an editorial piece than an academic work
 
 the paper points out the obvious and then advocates against it
 
