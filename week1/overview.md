@@ -1,6 +1,6 @@
 for my personal story, the first thing is what to focus on
-- hang gliding? all my flights are logged so the data is yhere
-- acting? i have scripts, photos and artifacts from all the shows I was in
+- hang gliding? all my flights are logged so the data is there
+- acting? I have scripts, photos and artifacts from all the shows I was in
 - IT career? too boring
 - pets I've had? horses, cats, dogs, rabbits, ducks, geese; have photos and videos
 
