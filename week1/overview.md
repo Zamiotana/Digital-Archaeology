@@ -15,7 +15,7 @@ sample mementos:
 
 as far as the paper "D’Ignazio, Catherine and Klein, L. 2020. ‘What gets counted, counts’. From Data Feminism" it comes across as more of a fluff piece than an academic work
 the paper points out the obvious and then advocates against it
-for example, facebook allows users to emter a wide range of genders in the front end but collapses them to male and genale in the back end
+for example, facebook allows users to emter a wide range of genders in the front end but collapses them to male and female in the back end
 this is because the front end is supposed to keep users hooked while the back end is for advertising 
 since it is a free service, people are free to use it or not use it
 
