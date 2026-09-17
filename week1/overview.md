@@ -20,6 +20,7 @@ as far as the paper "D’Ignazio, Catherine and Klein, L. 2020. ‘What gets cou
 the paper points out the obvious and then advocates against it
 
 for example, facebook allows users to enter a wide range of genders in the front end but collapses them to male and female in the back end
+
 this is because the front end is supposed to keep users hooked while the back end is for advertising 
 
 since it is a free service, people are free to use it or not use it
